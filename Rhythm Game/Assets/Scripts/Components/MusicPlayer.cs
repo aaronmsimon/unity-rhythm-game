@@ -1,7 +1,7 @@
 using UnityEngine;
 using RoboRyanTron.Unite2017.Variables;
 
-namespace RhythmGame.Music
+namespace RhythmGame.Components
 {
     [RequireComponent(typeof(AudioSource))]
     public class MusicPlayer : MonoBehaviour
