@@ -4,7 +4,6 @@ using RoboRyanTron.Unite2017.Events;
 
 namespace RhythmGame.Components
 {
-    [RequireComponent(typeof(AudioSource))]
     public class Metronome : MonoBehaviour
     {
         [Header("Settings")]

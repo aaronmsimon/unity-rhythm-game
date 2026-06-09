@@ -9,8 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b15e164634d62fb4ea0d66873793f0cf, type: 3}
-  m_Name: MusicTimePos
-  m_EditorClassIdentifier: Assembly-CSharp::RoboRyanTron.Unite2017.Variables.FloatVariable
-  DeveloperDescription: 
-  Value: 0
+  m_Script: {fileID: 11500000, guid: 4e7bfa44ab1b6c345a48bf807cfa7eb4, type: 3}
+  m_Name: BeatEvent
+  m_EditorClassIdentifier: Assembly-CSharp::RoboRyanTron.Unite2017.Events.GameEvent
